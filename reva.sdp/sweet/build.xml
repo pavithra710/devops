@@ -10,7 +10,7 @@
     	<property name="project.source.lib" value="..\\lib"/>
     	<property name="compiler.encoding" value="UTF-8"/>
     	<property name="project.java.manifest" value="MANIFEST.MF"/>
-    	
+    	<property name="project.java.colonel" value="COLONEL.CF"/>
     	
     	<target name="cleanup">
     	  <delete dir="${build.target}"/>
